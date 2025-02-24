@@ -1,0 +1,15 @@
+[-----Screen 2------]
+
+1. Week 1: Star Wars: A New Hope (1977), Sci-Fi, Mark Hamil, 2h 1m, [IMAX].
+Description: [Princess Leia gets abducted by the insidious Darth Vader. Luke Skywalker then teams up with a Jedi Knight, a pilot and two droids to free her and to save the galaxy from the violent Galactic Empire.]
+
+2. Week 2: Star Wars: The Empire Strikes Back (1980), Sci-Fi, Mark Hamil, 2h 4m, [IMAX].
+Description: [Darth Vader is adamant about turning Luke Skywalker to the dark side. Master Yoda trains Luke to become a Jedi Knight while his friends try to fend off the Imperial fleet.]
+
+3. Week 3: Star Wars: The Phantom Menace (1991), Sci-Fi, Jake Lloyd, 2h 16m, [IMAX].
+Description: [Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi set out to stop the Trade Federation from invading Naboo. While travelling, they come across a gifted boy, Anakin, and learn that the Sith have returned.]
+
+4. Week 4: Star Wars: Revenge of the Sith (2005), Sci-Fi, Hayden Christensen, 2h 20m, [IMAX].
+Description: [Anakin joins forces with Obi-Wan and sets Palpatine free from the evil clutches of Count Doku. However, he falls prey to Palpatine and the Jedis' mind games and gives into temptation.]
+
+5. Back to Screens

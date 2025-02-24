@@ -1,0 +1,8 @@
+﻿  C++ Project.cpp
+C:\Users\School Work\Desktop\Y1 Work\Sem 3\Software Programming\IY 453 Coursework\C++ Project\C++ Project\C++ Project.cpp(604): warning C4715: 'ScreenChoice': not all control paths return a value
+C:\Users\School Work\Desktop\Y1 Work\Sem 3\Software Programming\IY 453 Coursework\C++ Project\C++ Project\C++ Project.cpp(438): warning C4715: 'BookingMovieS3': not all control paths return a value
+C:\Users\School Work\Desktop\Y1 Work\Sem 3\Software Programming\IY 453 Coursework\C++ Project\C++ Project\C++ Project.cpp(376): warning C4715: 'BookingMovieS2': not all control paths return a value
+C:\Users\School Work\Desktop\Y1 Work\Sem 3\Software Programming\IY 453 Coursework\C++ Project\C++ Project\C++ Project.cpp(314): warning C4715: 'BookingMovieS1': not all control paths return a value
+C:\Users\School Work\Desktop\Y1 Work\Sem 3\Software Programming\IY 453 Coursework\C++ Project\C++ Project\C++ Project.cpp(501): warning C4715: 'BookingMovieS4': not all control paths return a value
+C:\Users\School Work\Desktop\Y1 Work\Sem 3\Software Programming\IY 453 Coursework\C++ Project\C++ Project\C++ Project.cpp(563): warning C4715: 'BookingMovieS5': not all control paths return a value
+  C++ Project.vcxproj -> C:\Users\School Work\Desktop\Y1 Work\Sem 3\Software Programming\IY 453 Coursework\C++ Project\x64\Debug\C++ Project.exe
